@@ -1,0 +1,39 @@
+# Core numerical & data libraries
+numpy==2.4.2
+pandas==2.2.2
+scipy==1.14.0
+
+# Data visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+plotly==5.22.0
+
+# Machine learning (classical)
+scikit-learn==1.6.0
+joblib==1.3.1
+
+# Deep Learning frameworks
+tensorflow==2.20.0
+keras==3.10.0
+torch==2.7.0
+torch-geometric==3.2.0
+dgl==1.2.3
+torchvision==0.23.0
+torchaudio==2.8.0
+
+# Graph/network analysis
+networkx==3.4
+nltk==3.8.1
+spacy==3.6.0
+
+# Model explainability
+shap==0.48.0
+lime==0.2.0
+
+# Statistics & scientific modeling
+statsmodels==0.14.0
+
+# Jupyter ecosystem
+jupyterlab==4.5.0
+notebook==7.9.0
+ipykernel==6.30.0
